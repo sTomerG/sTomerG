@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomer! 👋 
 
-I've been applying Data Science, Machine Learning and Python Development for over 8 years. Currently working in a role as an ML Engineer at Xccelerated in Amsterdam, the Netherlands.   
+I've been applying Data Science, Machine Learning and Python Development for over 8 years. Currently working as an ML Engineer at Xccelerated in Amsterdam, the Netherlands.   
 Love to create and contribute to open source projects and share knowledge.
 
 - 📫 How to find me: 
