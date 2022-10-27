@@ -8,7 +8,7 @@ Love to create and contribute to open source projects on [Github](https://github
   - :office: [LinkedIn](https://www.linkedin.com/in/tomer-gabay/)
   
   
- [![Tomer's github stats](https://github-readme-stats.vercel.app/api?username=sTomerG&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/sTomerG/github-readme-stats)
+[![Tomer Gabay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sTomerG&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
  ### Check out my latest articles
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/0" alt="Recent Article 0">
