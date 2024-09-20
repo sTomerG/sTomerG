@@ -11,9 +11,9 @@ Love to create and contribute to open source projects on [Github](https://github
 [![Tomer Gabay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sTomerG&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
  ### Check out my latest articles
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/0" alt="Recent Article 0">
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/1" alt="Recent Article 1">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tomergabay/2" alt="Recent Article 2"> 
  
 
 <!--
