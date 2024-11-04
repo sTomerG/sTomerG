@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomer! 👋 
 
-I've been applying Data Science, Machine Learning and Python Development for over 8 years. Currently working as an ML Engineer at Xccelerated in Amsterdam, the Netherlands.   
+I've been applying Data Science, Machine Learning and Python Development for over 10 years. Currently working as a Data Scientist and Software Engineer in the Netherlands.   
 Love to create and contribute to open source projects on [Github](https://github.com/sTomerG/) and share knowledge on [LinkedIn](https://www.linkedin.com/in/tomer-gabay/) and [Medium](https://medium.com/@tomergabay).
 
 - 📫 How to find me: 
